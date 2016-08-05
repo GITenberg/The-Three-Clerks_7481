@@ -1,0 +1,30 @@
+_repo: The-Three-Clerks_7481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: Charley Tudor may have passed the civil-service exam for the Internal
+  Navigation Office, but he is no gentleman, mixed up as he is with moneylenders and
+  barmaids. His friend Alaric is not doing much better, as he is caught embezzling
+  money from a trust fund. Henry, Charley's brother, is now responsible for clearing
+  Alaric's name and saving the three men from further trouble.
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Civil service -- Fiction'
+- GITenberg
+title: The Three Clerks
+url: http://www.gutenberg.org/ebooks/7481
