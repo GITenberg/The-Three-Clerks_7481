@@ -1,5 +1,8 @@
 _repo: The-Three-Clerks_7481
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -13,6 +16,8 @@ description: Charley Tudor may have passed the civil-service exam for the Intern
   barmaids. His friend Alaric is not doing much better, as he is caught embezzling
   money from a trust fund. Henry, Charley's brother, is now responsible for clearing
   Alaric's name and saving the three men from further trouble.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7481#The-Three-Clerks
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
